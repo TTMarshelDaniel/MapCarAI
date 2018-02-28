@@ -2,8 +2,8 @@
 //  MapCarAI.h
 //  GoCGM_Passenger
 //
-//  Created by palnar on 28/02/18.
-//  Copyright © 2018 palnar. All rights reserved.
+//  Created by T T Marshel Daniel on 28/02/18.
+//  Copyright © 2018 T T Marshel Daniel. All rights reserved.
 //
 
 #import <CoreLocation/CoreLocation.h>
